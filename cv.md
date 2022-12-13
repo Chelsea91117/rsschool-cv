@@ -32,7 +32,8 @@ Sociable, friendly, joking with a serious face, I like football and philosophica
 ***********************
 
 
- ## __Code example:__
+ ## __Code example__
+
 
 ```
 <html>
@@ -72,7 +73,7 @@ Sociable, friendly, joking with a serious face, I like football and philosophica
  **************
 
 
-   ## __Languages__
+## __Languages__
 
  * Russian - native
  * English - B1 ( IELTS 6.5)
