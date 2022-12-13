@@ -2,7 +2,7 @@
 ------------------------
 ## __Contacts__
 * Phone number: +7 747 89 22 779
-* GitHub:chelsea91117
+* GitHub: chelsea91117
 * Email: aidana.latifova@yandex.kz
 ------------------------
 ## __About me__
