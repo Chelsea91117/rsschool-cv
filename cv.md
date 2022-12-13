@@ -32,7 +32,7 @@ Sociable, friendly, joking with a serious face, I like football and philosophica
 ********
 
 
- ## __Code example__
+## __Code example__
 
 
 ```
@@ -52,17 +52,16 @@ Sociable, friendly, joking with a serious face, I like football and philosophica
 ********
 
 
- ## __Experience__
-
+## __Experience__
 
  * __Football coach__, FC Taraz ( 2020 - present )
  * __Draftsman__, Arabtec CCL ( 2017 - 2020 ) 
 
 
- ********
+********
 
 
- ## __Education__
+## __Education__
 
  * Eurasian National University, Astana (2013-2017)  
    _Bachelor of engineering and technology_
