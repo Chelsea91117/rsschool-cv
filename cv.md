@@ -18,7 +18,7 @@
 Sociable, friendly, joking with a serious face, I like football and philosophical conversations, participated in international projects as a volunteer. I am beginner in IT field.
 
 
-***********
+********
 
 
 ## __Skills__
@@ -29,7 +29,7 @@ Sociable, friendly, joking with a serious face, I like football and philosophica
 * CorelDraw
 
 
-***********************
+********
 
 
  ## __Code example__
@@ -49,7 +49,7 @@ Sociable, friendly, joking with a serious face, I like football and philosophica
 ```
 
 
-***************
+********
 
 
  ## __Experience__
@@ -59,7 +59,7 @@ Sociable, friendly, joking with a serious face, I like football and philosophica
  * __Draftsman__, Arabtec CCL ( 2017 - 2020 ) 
 
 
- **********************
+ ********
 
 
  ## __Education__
@@ -70,7 +70,7 @@ Sociable, friendly, joking with a serious face, I like football and philosophica
    _UEFA Coaching C License_ 
 
 
- **************
+ ********
 
 
 ## __Languages__
